@@ -1,0 +1,11 @@
+*.pyc
+
+# ignore cache
+__pycache__
+.cache/
+
+# ignore build files
+build/
+dist/
+
+.idea/
