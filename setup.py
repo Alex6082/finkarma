@@ -6,5 +6,5 @@ setup(
     url='https://github.com/Alex6082/finkarma/',
     packages=find_packages(),
     install_requires=[
-        "requests>=2.23.0",
+        "requests",
     ])
